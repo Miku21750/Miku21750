@@ -17,6 +17,13 @@
 ## My Waifu
 <img src="https://i.ibb.co/7g0sQ3T/20220929-133008.jpg " alt="Hatsune Miku" style= "width:250px;height:250px"><img src="https://i.ibb.co/hfhS0cd/794cdf8bd464220d70698e3af1179178.jpg " alt="Koishi Komeiji" style= "width:250px;height:250px"><img src="https://i.ibb.co/yVjHpmN/tumblr-82e17df4240b8b6ff394fecb76f1ca08-e61cc51e-400.png " alt="Kotone Shiomi" style= "width:250px;height:250px"><img src="https://i.ibb.co/Fg0VCfh/0ap7387dh2t41.webp" alt="Core!Frisk" style= "width:250px;height:250px">
 
+------------
+
+## Donate for me
+Gpp kalau mau donate, biar makin terinspirasi, hehe
+<a href= 'https://saweria.co/Miku21Margareth'><img src="https://i.ibb.co/fCTqhZ6/01c81f8c-18c9-47d7-b7ad-c04058016626-225x225.png" alt="Saweria" style= "width:250px;height:250px"></a>
+<a href= 'https://trakteer.id/miku21-margareth'><img src="https://i.ibb.co/QDvCgCd/trakteer-icon-thumbnail.png" alt="Trakteer" style= "width:250px;height:250px"></a>
+
 
 <!--
 **Miku21750/Miku21750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
