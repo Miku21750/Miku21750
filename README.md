@@ -15,12 +15,13 @@
 ------------
 
 ## My Waifu
-<img src="https://i.ibb.co/7g0sQ3T/20220929-133008.jpg " alt="Hatsune Miku" style= "width:250px;height:250px"><img src="https://i.pinimg.com/originals/79/4c/df/794cdf8bd464220d70698e3af1179178.jpg " alt="Koishi Komeiji" style= "width:250px;height:250px"><img src="https://64.media.tumblr.com/82e17df4240b8b6ff394fecb76f1ca08/f007dd64aa77b8ee-78/s400x600/e61cc51e0cd09033aafcd56b8f182e1e4ec353a4.png " alt="Koishi Komeiji" style= "width:250px;height:250px"><img src="https://preview.redd.it/0ap7387dh2t41.jpg?auto=webp&s=54323f1e6c18a7f0fb7e52bbbed069979a7d4f36 " alt="Koishi Komeiji" style= "width:250px;height:250px">
+<img src="https://i.ibb.co/7g0sQ3T/20220929-133008.jpg " alt="Hatsune Miku" style= "width:250px;height:250px"><img src="https://i.pinimg.com/originals/79/4c/df/794cdf8bd464220d70698e3af1179178.jpg " alt="Koishi Komeiji" style= "width:250px;height:250px"><img src="https://i.ibb.co/yVjHpmN/tumblr-82e17df4240b8b6ff394fecb76f1ca08-e61cc51e-400.png " alt="Kotone Shiomi" style= "width:250px;height:250px"><img src="https://i.ibb.co/Fg0VCfh/0ap7387dh2t41.webp" alt="Core!Frisk" style= "width:250px;height:250px">
 
 
 
 
 
+](https://i.ibb.co/yVjHpmN/tumblr-82e17df4240b8b6ff394fecb76f1ca08-e61cc51e-400.png)
 <!--
 **Miku21750/Miku21750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
