@@ -3,9 +3,9 @@
 ![Banner Miku21](https://i.ibb.co/zbhmXsn/bg.jpg)
 
 ##ABOUT ME
-- :tw-1f359: Nickname : Miku21
-- :tw-1f362: Random Code
-- :tw-1f363: Lolicon
+- 🌱 Nickname : Miku21
+- ✨ Random Code
+- 🔭 Lolicon
 
 ------------
 
@@ -18,10 +18,6 @@
 <img src="https://i.ibb.co/7g0sQ3T/20220929-133008.jpg " alt="Hatsune Miku" style= "width:250px;height:250px"><img src="https://i.ibb.co/hfhS0cd/794cdf8bd464220d70698e3af1179178.jpg " alt="Koishi Komeiji" style= "width:250px;height:250px"><img src="https://i.ibb.co/yVjHpmN/tumblr-82e17df4240b8b6ff394fecb76f1ca08-e61cc51e-400.png " alt="Kotone Shiomi" style= "width:250px;height:250px"><img src="https://i.ibb.co/Fg0VCfh/0ap7387dh2t41.webp" alt="Core!Frisk" style= "width:250px;height:250px">
 
 
-
-
-
-](https://i.ibb.co/yVjHpmN/tumblr-82e17df4240b8b6ff394fecb76f1ca08-e61cc51e-400.png)
 <!--
 **Miku21750/Miku21750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
