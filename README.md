@@ -20,9 +20,9 @@
 ------------
 
 ## Donate for me
-Gpp kalau mau donate, biar makin terinspirasi, hehe
-<a href= 'https://saweria.co/Miku21Margareth'><img src="https://i.ibb.co/fCTqhZ6/01c81f8c-18c9-47d7-b7ad-c04058016626-225x225.png" alt="Saweria" style= "width:250px;height:250px"></a>
-<a href= 'https://trakteer.id/miku21-margareth'><img src="https://i.ibb.co/QDvCgCd/trakteer-icon-thumbnail.png" alt="Trakteer" style= "width:250px;height:250px"></a>
+Gpp kalau mau donate, biar makin terinspirasi, hehe</br>
+<a href= 'https://saweria.co/Miku21Margareth'><img src="https://i.ibb.co/fCTqhZ6/01c81f8c-18c9-47d7-b7ad-c04058016626-225x225.png" alt="Saweria" style= "width:65px;height:65px"></a>
+<a href= 'https://trakteer.id/miku21-margareth'><img src="https://i.ibb.co/QDvCgCd/trakteer-icon-thumbnail.png" alt="Trakteer" style= "width:65px;height:65px"></a>
 
 
 <!--
