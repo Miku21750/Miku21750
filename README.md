@@ -2,7 +2,7 @@
 
 ![Banner Miku21](https://i.ibb.co/zbhmXsn/bg.jpg)
 
-##ABOUT ME
+## ABOUT ME
 - 🌱 Nickname : Miku21
 - ✨ Random Code
 - 🔭 Lolicon
