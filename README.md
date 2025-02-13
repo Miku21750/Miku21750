@@ -10,7 +10,7 @@
 ------------
 
 ### Connect with me ☎️
-<a href='https://api.whatsapp.com/send?phone=6283834685279'><img src= "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Whatsapp" style="width:42px;height:42px;"></a> <a href='https://twitter.com/Miku2111'><img src= "https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" alt="Twitter" style="width:42px;height:42px;"></a> <!-- <a href='https://twitter.com/Miku2111'><img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.pngg" alt="Facebook" style="width:42px;height:42px;"></a>  delete post 2016 --> <a href='https://instagram.com/_.miku21'><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="Instagram" style="width:42px;height:42px;"></a> 
+<a href='https://api.whatsapp.com/send?phone=6283834685279'><img src= "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Whatsapp" style="width:42px;height:42px;"></a> <a href='https://twitter.com/Miku2111'><img src= "https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" style="width:42px;height:42px;"></a> <!-- <a href='https://twitter.com/Miku2111'><img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.pngg" alt="Facebook" style="width:42px;height:42px;"></a>  delete post 2016 --> <a href='https://instagram.com/_.miku21'><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="Instagram" style="width:42px;height:42px;"></a> 
 
 ------------
 
