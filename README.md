@@ -2,17 +2,6 @@
 
 ![Banner Miku21](https://i.ibb.co/zbhmXsn/bg.jpg)
 
-# Halo semua! 
-
-Perkenalkan nama saya **Rafa Elfarizi**.<br>
-
-Saya seorang **Developer** di [Dicoding](https://www.dicoding.com/).<br>
-
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
 
 ## ABOUT ME
 - 🌱 Nickname : Miku21
@@ -31,12 +20,20 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ------------
 
-## Donate for me
+### Donate for me
 Gpp kalau mau donate, biar makin terinspirasi, hehe</br>
 <a href= 'https://saweria.co/Miku21Margareth'><img src="https://i.ibb.co/fCTqhZ6/01c81f8c-18c9-47d7-b7ad-c04058016626-225x225.png" alt="Saweria" style= "width:65px;height:65px"></a>
 <a href= 'https://trakteer.id/miku21-margareth'><img src="https://i.ibb.co/QDvCgCd/trakteer-icon-thumbnail.png" alt="Trakteer" style= "width:65px;height:65px"></a>
 
+------------
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miku21750&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miku21750&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **Miku21750/Miku21750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
