@@ -79,7 +79,7 @@
 ## 🎧 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1E35lDb4EupQ4a?si=9b61b0e1fe0a493a">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1E35lDb4EupQ4a?si=61b42ff5c16d44b1">
     <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Spotify Now Playing">
   </a>
 </p>
