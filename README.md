@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1E35lDb4EupQ4a?si=61b42ff5c16d44b1">
-    <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Spotify Now Playing">
+    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=84wgnqfn4mxrikh6b6w7cut7j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   </a>
 </p>
 
