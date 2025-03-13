@@ -7,8 +7,8 @@
 ## 💙 About Me
 
 - 🌸 **Nickname**: Miku21
-- 💻 **Coding is my passion**
-- 🎀 **Anime Enthusiast & Waifu Collector**
+- 💻 **CTrying to Duplicate many Programs as Possible**
+- 🎀 **Lolicon**
 - 🔭 **Loving the world of 2D**
 - 🎶 **Favorite Vibes: Vocaloid, Touhou, Persona**
 
