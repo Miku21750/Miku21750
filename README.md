@@ -33,7 +33,7 @@
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,laravel,nodejs,npm,bots,discord,mongodb,react,nextjs,vite,prisma,postman,powershell,py,vscode,unity,ae&theme=dark" alt="Learning Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,laravel,nodejs,npm,bots,discord,mongodb,react,nextjs,vite,prisma,postman,powershell,py,vscode,unity,ae&theme=dark" alt="Learning Skills" />
 </p>
 
 ---
