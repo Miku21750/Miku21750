@@ -1,41 +1,89 @@
-# Hello World  :wave:
+# Kon'nichiwa! こんにちは! 🌸
 
 ![Banner Miku21](https://i.ibb.co/zbhmXsn/bg.jpg)
 
-## ABOUT ME
-- 🌱 Nickname : Miku21
-- ✨ Random Code
-- 🔭 Lolicon
+---
 
-------------
+## 💙 About Me
 
-### Connect with me ☎️
-<a href='https://api.whatsapp.com/send?phone=6283834685279'><img src= "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Whatsapp" style="width:42px;height:42px;"></a> <a href='https://twitter.com/Miku2111'><img src= "https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" style="width:42px;height:42px;"></a> <!-- <a href='https://twitter.com/Miku2111'><img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.pngg" alt="Facebook" style="width:42px;height:42px;"></a>  delete post 2016 --> <a href='https://instagram.com/_.miku21'><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="Instagram" style="width:42px;height:42px;"></a> 
+- 🌸 **Nickname**: Miku21
+- 💻 **Coding is my passion**
+- 🎀 **Anime Enthusiast & Waifu Collector**
+- 🔭 **Loving the world of 2D**
+- 🎶 **Favorite Vibes: Vocaloid, Touhou, Persona**
 
-------------
+---
 
-## My Waifu
-<img src="https://i.ibb.co/6JRcV0K/20220929-133008.jpg" alt="Hatsune Miku" style= "width:250px;height:250px"><img src="https://i.ibb.co/hfhS0cd/794cdf8bd464220d70698e3af1179178.jpg " alt="Koishi Komeiji" style= "width:250px;height:250px"><img src="https://i.ibb.co/yVjHpmN/tumblr-82e17df4240b8b6ff394fecb76f1ca08-e61cc51e-400.png " alt="Kotone Shiomi" style= "width:250px;height:250px"><img src="https://i.ibb.co/Fg0VCfh/0ap7387dh2t41.webp" alt="Core!Frisk" style= "width:250px;height:250px">
+## 🚀 Github Stats
 
-------------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miku21750&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ff79c6&icon_color=ffb86c&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" />
+</p>
 
-## Donate for me
-Gpp kalau mau donate, biar makin terinspirasi, hehe</br>
-<a href= 'https://saweria.co/Miku21Margareth'><img src="https://i.ibb.co/fCTqhZ6/01c81f8c-18c9-47d7-b7ad-c04058016626-225x225.png" alt="Saweria" style= "width:65px;height:65px"></a>
-<a href= 'https://trakteer.id/miku21-margareth'><img src="https://i.ibb.co/QDvCgCd/trakteer-icon-thumbnail.png" alt="Trakteer" style= "width:65px;height:65px"></a>
+---
 
+## 🏆 Github Trophy
 
-<!--
-**Miku21750/Miku21750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Miku21750&theme=dracula&margin-w=10" alt="GitHub Trophies" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,laravel,nodejs,npm,bots,discord,mongodb,react,nextjs,vite,prisma,postman,powershell,py,vscode,unity,ae&theme=dark" alt="Learning Skills" />
+</p>
+
+---
+
+## 🌐 Connect with me!
+
+<p align="center">
+  <a href="https://api.whatsapp.com/send?phone=6283834685279"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="42" height="42"></a>
+  <a href="https://twitter.com/Miku2111"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="42" height="42"></a>
+  <a href="https://instagram.com/_.miku21"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" width="42" height="42"></a>
+</p>
+
+---
+
+## 💖 My Waifus 💖
+
+<table align="center">
+  <tr>
+    <td><img src="https://i.ibb.co/6JRcV0K/20220929-133008.jpg" width="180" height="180" alt="Hatsune Miku"></td>
+    <td><img src="https://i.ibb.co/hfhS0cd/794cdf8bd464220d70698e3af1179178.jpg" width="180" height="180" alt="Koishi Komeiji"></td>
+    <td><img src="https://i.ibb.co/yVjHpmN/tumblr-82e17df4240b8b6ff394fecb76f1ca08-e61cc51e-400.png" width="180" height="180" alt="Kotone Shiomi"></td>
+    <td><img src="https://i.ibb.co/Fg0VCfh/0ap7387dh2t41.webp" width="180" height="180" alt="Core!Frisk"></td>
+  </tr>
+  <tr>
+    <td align="center">Hatsune Miku</td>
+    <td align="center">Koishi Komeiji</td>
+    <td align="center">Kotone Shiomi</td>
+    <td align="center">Core!Frisk</td>
+  </tr>
+</table>
+
+---
+
+## ☕ Support Me!
+
+<p align="center">
+  <a href="https://saweria.co/Miku21Margareth"><img src="https://i.ibb.co/fCTqhZ6/01c81f8c-18c9-47d7-b7ad-c04058016626-225x225.png" width="65" height="65"></a>
+  <a href="https://trakteer.id/miku21-margareth"><img src="https://i.ibb.co/QDvCgCd/trakteer-icon-thumbnail.png" width="65" height="65"></a>
+</p>
+
+---
+
+## 🎧 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1E35lDb4EupQ4a?si=9b61b0e1fe0a493a">
+    <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Spotify Now Playing">
+  </a>
+</p>
+
+---
+
+<p align="center">🌸✨ **Arigatou for visiting my profile! Sayonara~!** 🌸✨</p>
