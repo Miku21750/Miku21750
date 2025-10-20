@@ -1,6 +1,6 @@
 # Kon'nichiwa! こんにちは! 🌸
 <p align="center">
-  <img src="https://i.ibb.co/zbhmXsn/bg.jpg" alt="Banner Miku21"/>
+  <img src="bg.jpg" alt="Banner Miku21"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@
 <p align="center">
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/6JRcV0K/20220929-133008.jpg" width="180" height="180" alt="Hatsune Miku"></td>
+    <td><img src="20220929-133008.jpg" width="180" height="180" alt="Hatsune Miku"></td>
     <td><img src="https://i.ibb.co/hfhS0cd/794cdf8bd464220d70698e3af1179178.jpg" width="180" height="180" alt="Koishi Komeiji"></td>
     <td><img src="https://i.ibb.co/yVjHpmN/tumblr-82e17df4240b8b6ff394fecb76f1ca08-e61cc51e-400.png" width="180" height="180" alt="Kotone Shiomi"></td>
     <td><img src="https://i.ibb.co/Fg0VCfh/0ap7387dh2t41.webp" width="180" height="180" alt="Core!Frisk"></td>
