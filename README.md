@@ -18,6 +18,16 @@
 
 ---
 
+## 🎧 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=84wgnqfn4mxrikh6b6w7cut7j&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=84wgnqfn4mxrikh6b6w7cut7j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
 ## 🌸 Featured Projects
 
 ### CDAX System
